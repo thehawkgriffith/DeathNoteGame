@@ -31,6 +31,7 @@ WIN CONDITIONS:
 		Supporter kills Kira.
 
 GAMEPLAY:
+
 	Agents do not know other's identities except their own.
 	
 	Kira does know the identity of he supporter.
